@@ -1,0 +1,4 @@
+# open .gitignore in VS Code or any editor
+nano .gitignore
+
+.env
